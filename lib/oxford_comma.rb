@@ -12,12 +12,12 @@ if array.length == 3
    return array.join(", ")
   end
    
-   array.join(", and array[-1]")
+   #array.join(", and array[-1]")
      
-   return
+   #return
    
  
    
-end
+#end
 
 end
