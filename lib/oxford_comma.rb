@@ -9,7 +9,7 @@ if array.length == 2
   return array.join(" and ")
 end
 if array.length == 3
-   element = array[-1]
+   element = array.pop
    
    return array.join(", ")
   end
