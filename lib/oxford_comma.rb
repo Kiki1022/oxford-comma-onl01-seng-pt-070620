@@ -10,7 +10,7 @@ if array.length == 2
 end
 if array.length == 3
    array << array.join(" and ")  
-   array.join(", ")
+   #array.join(", ")
  
    
 end
