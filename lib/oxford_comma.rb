@@ -10,7 +10,7 @@ if array.length == 2
 end
 if array.length == 3
    element = array.pop
-   
+   array << 
    return array.join(", ")
   end
    
