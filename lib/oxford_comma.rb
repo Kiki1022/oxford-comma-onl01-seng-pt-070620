@@ -10,6 +10,7 @@ if array.length == 2
 end
 if array.length == 3
    element = array[-1]
+   
    return array.join(", ")
   end
    
