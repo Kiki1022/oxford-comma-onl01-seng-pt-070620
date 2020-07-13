@@ -3,7 +3,7 @@ def oxford_comma(array)
   
   if array.length == 1 
   array.join()
-  return array
+  return
   end
   
 end
