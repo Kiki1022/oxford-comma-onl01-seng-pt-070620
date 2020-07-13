@@ -9,7 +9,8 @@ if array.length == 2
   return array.join(" and ")
 end
 if array.length == 3
-   return array << array.join(" and ") && array.join(", ")
+   array << array.join(" and ")  
+   array.join(", ")
  
    
 end
